@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "AI-Reviewer-Speculation-ChatGPT5: When Speculation Overrides Evidence"
+message: "If you use this project, please cite it as below."
+authors:
+  - family-names: Kumar
+    given-names: Priyanshu
+    affiliation: Independent Researcher (B.Tech CSE, BIT Mesra)
+    orcid: "https://orcid.org/0009-0006-8198-193X"
+date-released: 2025-09-06
+version: "1.0"
+abstract: >
+  This repository documents a speculation vs. evidence failure in ChatGPT-5’s reviewer  
+  role. While analyzing a PDF, the model correctly observed that only captions were present,  
+  but went beyond the evidence by speculating on LaTeX directory issues. These hypotheses  
+  were presented as facts until challenged, after which the model admitted this as a  
+  review-process failure and a structural limitation of generative AI reviewers.  
+  This case highlights risks of unverifiable speculation in safety-critical evaluations.
+repository-code: "https://github.com/priyanshuphenomenal007/AI-Reviewer-Speculation-ChatGPT5"
+license: CC-BY-4.0
+keywords:
+  - ChatGPT-5
+  - AI Reviewer
+  - Speculation
+  - Evidence Reliability
+  - Research Transparency
+  - PDF Evaluation
