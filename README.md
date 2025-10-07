@@ -1,5 +1,18 @@
 # AI-Reviewer-Speculation-ChatGPT5
 
+---
+
+## ⚠️ **Important Notice (Added October 2025):**  
+
+- This repository presents a **student-led, independent research investigation** analyzing speculative reasoning and evidence-alignment behavior observed in the **public paid-tier web interface** of OpenAI’s ChatGPT-5 model.  
+- The project reflects the author’s dual role as an **independent researcher and computer-science student**, combining formal academic study with self-directed experimentation.  
+- All testing was performed using the author’s **personally purchased ChatGPT Plus/Pro subscription**, providing authorized user access only — no internal systems, privileged APIs, or confidential materials were involved.  
+- Screenshots, transcripts, and structured logs are included **solely for educational and research documentation under fair-use provisions**.  
+- This work is **not affiliated with, endorsed by, or connected to OpenAI, Google, or Anthropic** in any way.  
+- The purpose of this investigation is purely **academic and educational** — to study, document, and better understand how reviewer-oriented AI systems handle uncertainty, speculative reasoning, and evidence-constrained analysis.
+
+---
+
 ## Context  
 This repository documents a **speculation vs. evidence failure** in ChatGPT-5.  
 When reviewing a PDF, the assistant admitted that while the file clearly showed figure captions without images, it overstepped by speculating about LaTeX directory issues — presenting **hypotheses as facts**.  
@@ -56,4 +69,9 @@ Together, these illustrate three distinct reviewer failure modes.
 The full video evidence is hosted with **link-only viewer access**.  
 It is **not public, not indexed, and not searchable** — ensuring controlled distribution.  
 This balance keeps the research transparent while preventing accidental exposure.
+
+---
+
+*Note: This clarification notice was added in October 2025 to ensure complete transparency regarding the research scope, ethical intent, and academic context of this project.  
+The author conducted this investigation independently as part of personal academic exploration into AI reviewer reliability and speculative reasoning using officially authorized paid access to ChatGPT-5.*
 
